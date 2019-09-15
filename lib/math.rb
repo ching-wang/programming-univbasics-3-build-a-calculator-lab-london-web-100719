@@ -4,8 +4,8 @@ if sum == num1 + num2
 end
 
 def subtraction(num1, num2)
-  if sum == num - 2
-  
+  sum == num1 - num2
+  puts sum
 end
 
 def division(num1, num2)
